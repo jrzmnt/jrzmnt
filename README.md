@@ -30,6 +30,7 @@ For a complete curriculum, check out my [Lattes](http://lattes.cnpq.br/630774629
 <a href="http://lattes.cnpq.br/6307746290114554"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/lattes.svg" width="40px" alt="Lattes"/></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com.br/citations?user=LVhKmIIAAAAJ&hl"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/scholar.svg" width="40px" alt="Scholar"/></a>&nbsp;&nbsp;
 <a href="http://dblp.uni-trier.de/pers/hd/m/Monteiro:Juarez"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/dblp.svg" width="40px" alt="DBLP"/></a>
+<a href="https://www.researchgate.net/profile/Juarez_Monteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/researchgate.svg" width="40px" alt="Research Gate"/></a>
 </p>
 
 <p align='center'>
