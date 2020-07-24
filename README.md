@@ -34,6 +34,6 @@ For a complete curriculum, check out my [Lattes](http://lattes.cnpq.br/630774629
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=jrzmnt.jrzmnt"></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jrzmnt/jrzmnt/" alt="Hits" />
 </p>
 
