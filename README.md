@@ -20,6 +20,7 @@ For a complete curriculum, check out my [Lattes](http://lattes.cnpq.br/630774629
 ### Check out my latest projects 🤓
 
 <details><summary>Click here to read more...</summary>
+       
 [<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/pipeline_haprec.svg" align="left" width="300" />](https://youtu.be/eb_6I6dzrEE)
         **[HAPRec: Hybrid Activity and Plan Recognizer](https://youtu.be/eb_6I6dzrEE)**<br/>
 <img align="center" width="100%" height="0" />
