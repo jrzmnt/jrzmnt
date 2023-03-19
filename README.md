@@ -4,16 +4,18 @@ I'm a Ph.D. Student in Computer Science at the Pontifical Catholic University of
 <br>My research interests are Imitation Learning and Action Recognition.
 
 ---
-<details><summary>Click here to read a brief description about me...</summary>
-<br>I am graduated in <b>Systems Development and Analysis</b> from the Federal Institute of Rio Grande do Sul ([IFRS](https://ifrs.edu.br/canoas/)), Brazil. During my under graduation, I worked with research in <b>Artificial Intelligence for Agents Applied in Games</b>. 
+<details><summary>Click here to read a brief description about me...</summary><br>
 
-Two years later, I received a <b>Master's Degree in Computer Science</b> from the Pontifical Catholic University of Rio Grande do Sul ([PUCRS](http://www.pucrs.br/)) for a thesis involving the usage of <b>Small Datasets with Deep Learning Models</b>. I was rewarded with the <b>Second-best Master's Thesis in Artificial Intelligence</b> by CTDIAC at the Brazilian Conference on Intelligent Systems ([CTDIAC](https://bracis2018.mybluemix.net/CTDIAC.html)). During my Masters, I joined the Hewlett Packard/PUCRS project about the <b>Identification of Action and Goals in Video Sequences</b>. In that project, I worked with the <b>Python</b> Language and different deep learning models to construct systems capable of learning actions and activities in a smart environment. I received the <b>Award of the Best Student Paper</b> at IEEE Joint Conference on Neural Networks ([IJCNN](https://www.ijcnn.org/)) to a work that uses action recognition to support visual-impaired people. 
+My career started in 2013, when I decided to study and understand computers and how we can program them. It all started when I was approved and allowed to study **Systems Analysis** (undergraduate) at the Federal Institute of Rio Grande do Sul (IFRS). During this period, I had the opportunity to expand my theory by working as an intern for several great companies, such as Stefanini, Dell, and CWI. Finally, at the end of my undergraduate course, I got exposed to Artificial Intelligence and did my final project about how games can be a great environment to create experiments with artificial intelligence algorithms.
 
-In 2018 at PUCRS with a scholarship from [CAPES](http://www.capes.gov.br/), I started my <b>Ph.D in Computer Science</b>. focusing the research on the <b>Self-supervised Imitation Learning</b>, using deep neural networks and agents theory to get it. During the second year of the Ph.D. I was approved in the CAPES-PrInt program ([PrInt-PUCRS](http://www.pucrs.br/print/)) and become an <b>Exchange Student in partnership with the University of Aberdeen</b> ([UoA](https://www.abdn.ac.uk/)) located in Aberdeen, Scotland.
-I expect to finish the Ph.D. in 2022 with a thesis about <b>Self-supervised Imitation Learning Applied in Videos</b>.
+In 2015 I started my **Master's in Computer Science** at the Pontifical Catholic University of Rio Grande do Sul (PUCRS). Influenced by Artificial Intelligence, I chose the **Machine and Deep Learning** fields. I became a full-grant student in partnership with Hewlett Packard (HP Brazil) to join their project about identifying actions and goals in video sequences. In this project, I had the chance to develop my skills using the Python program language and several deep learning models for classification and action recognition. During this period, I received the **best student paper award at IEEE Joint Conference on Neural Networks** (IJCNN) for a work that uses action recognition to support visually impaired people. Two years later, In 2017, I received a Master's degree in Computer Science for a thesis involving the usage of small datasets with deep learning models. In addition, I was **rewarded with the second-best Master's thesis in Artificial Intelligence by CTDIAC** at the Brazilian Conference on Intelligent Systems.
+
+**In 2018 at PUCRS, I started my Ph.D.** focusing on the research on self-supervised imitation learning using deep neural networks and agents theory. In the second year of my Ph.D. I was approved in the CAPES-PrInt program to become an **exchange student in partnership with the University of Aberdeen** (UoA) in Aberdeen, Scotland. In addition, I joined the industry as a **Machine Learning Engineer** acting in the computer vision field and later as a **Data Scientist** for Sicredi Bank, where I work today, using Reinforcement and Machine Learning to create and maintain recommendation systems.
+
+_I expect to finish my Ph.D. in the first semester of 2023 with a thesis about self-supervised imitation learning._
 
 
-For a complete curriculum, check out my [Lattes](http://lattes.cnpq.br/6307746290114554). <!--For a brief description, check out my [CV](data/cv.pdf)-->
+For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/juarez-monteiro/). <!--For a brief description, check out my [CV](data/cv.pdf)-->
 </details>
 
 ---
