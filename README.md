@@ -36,12 +36,12 @@ For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/j
 <p align='center'>
 <a href="https://jrzmnt.github.io/"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/homepage.svg" width="40px" alt="Personal Blog"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/jrzmonteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/twitter.svg" width="40px" alt="Twitter"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/juarezzzmonteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/instagram.svg" width="40px" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juarez-monteiro-556a0164/"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/in.svg" width="40px" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="http://lattes.cnpq.br/6307746290114554"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/lattes.svg" width="40px" alt="Lattes"/></a>&nbsp;&nbsp;
+<!--<a href="https://instagram.com/juarezzzmonteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/instagram.svg" width="40px" alt="Instagram"/></a>&nbsp;&nbsp;-->
+<a href="[https://www.linkedin.com/in/juarez-monteiro-556a0164/](https://www.linkedin.com/in/juarez-monteiro/)"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/in.svg" width="40px" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<!--<a href="http://lattes.cnpq.br/6307746290114554"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/lattes.svg" width="40px" alt="Lattes"/></a>&nbsp;&nbsp;-->
 <a href="https://scholar.google.com.br/citations?user=LVhKmIIAAAAJ&hl"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/scholar.svg" width="40px" alt="Scholar"/></a>&nbsp;&nbsp;
-<a href="http://dblp.uni-trier.de/pers/hd/m/Monteiro:Juarez"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/dblp.svg" width="40px" alt="DBLP"/></a>
-<a href="https://www.researchgate.net/profile/Juarez_Monteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/researchgate.svg" width="40px" alt="Research Gate"/></a>
+<!--<a href="http://dblp.uni-trier.de/pers/hd/m/Monteiro:Juarez"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/dblp.svg" width="40px" alt="DBLP"/></a>-->
+<!--<a href="https://www.researchgate.net/profile/Juarez_Monteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/researchgate.svg" width="40px" alt="Research Gate"/></a>-->
 </p>
 
 <p align='center'>
