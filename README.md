@@ -1,9 +1,7 @@
-<h2 align='center'> Hi there, I'm Juarez :nerd_face:</h2>
-
-I'm a Ph.D. Student in Computer Science at the Pontifical Catholic University of Rio Grande do Sul ([PUCRS](http://www.pucrs.br/)). 
-<br>My research interests are Imitation Learning and Action Recognition.
+![Greetings banner](banner.png)
 
 ---
+
 <details><summary>Click here to read a brief description about me...</summary><br>
 
 My career started in 2013, when I decided to study and understand computers and how we can program them. It all started when I was approved and allowed to study **Systems Analysis** (undergraduate) at the Federal Institute of Rio Grande do Sul (IFRS). During this period, I had the opportunity to expand my theory by working as an intern for several great companies, such as Stefanini, Dell, and CWI. Finally, at the end of my undergraduate course, I got exposed to Artificial Intelligence and did my final project about how games can be a great environment to create experiments with artificial intelligence algorithms.
@@ -14,11 +12,12 @@ In 2015 I started my **Master's in Computer Science** at the Pontifical Catholic
 
 _I expect to finish my Ph.D. in the first semester of 2023 with a thesis about self-supervised imitation learning._
 
-
 For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/juarez-monteiro/). <!--For a brief description, check out my [CV](data/cv.pdf)-->
+
 </details>
 
 ---
+
 ### Check out my latest projects 🤓
 
 <details><summary>Click here to read more...</summary>
@@ -30,9 +29,11 @@ For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/j
         **[IJCNN 2020: Augmented Behavioral Cloning from Observation](https://youtu.be/jlTUoxX_fiw)**<br/>
 
 <br><br><br><br><br><br>
+
 </details>
 
 ---
+
 <p align='center'>
 <a href="https://jrzmnt.github.io/"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/homepage.svg" width="40px" alt="Personal Blog"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/jrzmonteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/twitter.svg" width="40px" alt="Twitter"/></a>&nbsp;&nbsp;
@@ -47,4 +48,3 @@ For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/j
 <p align='center'>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jrzmnt/jrzmnt/" alt="Hits" />
 </p>
-
