@@ -35,8 +35,8 @@ For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/j
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&show_icons=true&theme=radical" alt="Juarez's GitHub stats" style="width: 40%; height: 200px; margin-right: 5px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrzmnt&theme=radical" alt="GitHub Streak" style="width: 40%; height: 200px; margin-left: 5px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&show_icons=true&theme=radical" alt="Juarez's GitHub stats" style="width: 47%; height: 200px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrzmnt&theme=radical" alt="GitHub Streak" style="width: 47%; height: 200px;">
 </p>
 
 
