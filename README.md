@@ -48,3 +48,10 @@ For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/j
 <p align='center'>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jrzmnt/jrzmnt/" alt="Hits" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&show_icons=true&theme=radical" alt="Juarez's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrzmnt&theme=radical" alt="GitHub Streak">
+</p>
