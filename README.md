@@ -34,6 +34,12 @@ For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/j
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&show_icons=true&theme=radical" alt="Juarez's GitHub stats" style="width: 40%; height: 200px; margin-right: 5px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrzmnt&theme=radical" alt="GitHub Streak" style="width: 40%; height: 200px; margin-left: 5px;">
+</p>
+
+
 <p align='center'>
 <a href="https://jrzmnt.github.io/"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/homepage.svg" width="40px" alt="Personal Blog"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/jrzmonteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/twitter.svg" width="40px" alt="Twitter"/></a>&nbsp;&nbsp;
@@ -47,11 +53,4 @@ For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/j
 
 <p align='center'>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jrzmnt/jrzmnt/" alt="Hits" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&show_icons=true&theme=radical" alt="Juarez's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrzmnt&theme=radical" alt="GitHub Streak">
 </p>
