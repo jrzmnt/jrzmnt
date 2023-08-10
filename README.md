@@ -33,25 +33,3 @@ For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/j
 </details>
 
 ---
-
-<p align="center">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=jrzmnt&show_icons=true&theme=radical&hide=contribs&rank_icon=github&hide_rank=true" alt="Juarez's GitHub stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=jrzmnt&layout=compact&langs_count=6&card_width=320&hide=jupyter%20notebook&theme=radical" />
-</p>
-
-
-
-<p align='center'>
-<a href="https://jrzmnt.github.io/"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/homepage.svg" width="40px" alt="Personal Blog"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/jrzmonteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/twitter.svg" width="40px" alt="Twitter"/></a>&nbsp;&nbsp;
-<!--<a href="https://instagram.com/juarezzzmonteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/instagram.svg" width="40px" alt="Instagram"/></a>&nbsp;&nbsp;-->
-<a href="[https://www.linkedin.com/in/juarez-monteiro-556a0164/](https://www.linkedin.com/in/juarez-monteiro/)"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/in.svg" width="40px" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<!--<a href="http://lattes.cnpq.br/6307746290114554"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/lattes.svg" width="40px" alt="Lattes"/></a>&nbsp;&nbsp;-->
-<a href="https://scholar.google.com.br/citations?user=LVhKmIIAAAAJ&hl"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/scholar.svg" width="40px" alt="Scholar"/></a>&nbsp;&nbsp;
-<!--<a href="http://dblp.uni-trier.de/pers/hd/m/Monteiro:Juarez"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/dblp.svg" width="40px" alt="DBLP"/></a>-->
-<!--<a href="https://www.researchgate.net/profile/Juarez_Monteiro"><img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/researchgate.svg" width="40px" alt="Research Gate"/></a>-->
-</p>
-
-<p align='center'>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jrzmnt/jrzmnt/" alt="Hits" />
-</p>
