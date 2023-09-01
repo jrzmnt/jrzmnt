@@ -10,8 +10,6 @@ In 2015 I started my **Master's in Computer Science** at the Pontifical Catholic
 
 **In 2018 at PUCRS, I started my Ph.D.** focusing on the research on self-supervised imitation learning using deep neural networks and agents theory. In the second year of my Ph.D. I was approved in the CAPES-PrInt program to become an **exchange student in partnership with the University of Aberdeen** (UoA) in Aberdeen, Scotland. In addition, I joined the industry as a **Machine Learning Engineer** acting in the computer vision field and later as a **Data Scientist** for Sicredi Bank, where I work today, using Reinforcement and Machine Learning to create and maintain recommendation systems.
 
-_I expect to finish my Ph.D. in the first semester of 2023 with a thesis about self-supervised imitation learning._
-
 For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/juarez-monteiro/). <!--For a brief description, check out my [CV](data/cv.pdf)-->
 
 </details>
