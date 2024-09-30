@@ -1,12 +1,24 @@
-<!--![Greetings banner](banner.png)-->
-Hello! I'm Juarez Monteiro, an AI Researcher and Data Scientist with a Ph.D. in Computer Science from PUCRS. My expertise encompasses deep learning, imitation learning, and computer vision, with a strong focus on Generative AI technologies.
+<p align="center">
+  <b>Juarez Monteiro</b> <br />
+</p>
 
-I've had the privilege of working at Sicredi Bank as a Data Scientist and as a Machine Learning Engineer specializing in computer vision. Currently, I drive AI research at Dell, where I focus on developing innovative AI solutions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&theme=synthwave&show_icons=true" alt="Juarez Monteiro's GitHub stats" />
+</p>
 
-My work has been recognized with awards such as the 2nd Best Master's Dissertation in AI at CTDIAC-BRACIS and the Best Student Paper at the International Joint Conference on Neural Networks. I am passionate about advancing ethical AI technologies that are inclusive and socially beneficial.
+<p align="center">
+  <a href="https://linkedin.com/in/juarez-monteiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn account" /></a>
+  <a href="https://github.com/jrzmnt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="My Github account- you're already here" /></a>
+  <!--<a href="https://twitter.com/anibalsolon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter account" /></a>-->
+  <a href="https://instagram.com/juarezzzmonteiro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram account" /></a><br />
+  <a href="https://jrzmnt.github.io"><img src="https://img.shields.io/badge/website-39424b?style=for-the-badge&logo=About.me&logoColor=white" alt="My Website" /></a>
+  <a href="https://orcid.org/0000-0002-8831-5343"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=ORCID&logoColor=white" alt="My ORCID profile" /></a>
+  <a href="https://scholar.google.com.br/citations?user=LVhKmIIAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285f4?style=for-the-badge&logo=Google%20Scholar&logoColor=white" alt="My Google Scholar profile" /></a>
+</p>
 
-For a complete curriculum, check out my [LinkedIn](https://www.linkedin.com/in/juarez-monteiro/). <!--For a brief description, check out my [CV](data/cv.pdf)-->
+<p align="center">—————</p>
 
-</details>
-
----
+<p align="center">
+  :tada: Hello there, you are the visitor :tada: <br><br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjrzmnt.github.io&amp;count_bg=%235FAA09&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=false" alt="visit counter">
+</p>
