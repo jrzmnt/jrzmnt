@@ -15,10 +15,3 @@
   <a href="https://orcid.org/0000-0002-8831-5343"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=ORCID&logoColor=white" alt="My ORCID profile" /></a>
   <a href="https://scholar.google.com.br/citations?user=LVhKmIIAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285f4?style=for-the-badge&logo=Google%20Scholar&logoColor=white" alt="My Google Scholar profile" /></a>
 </p>
-
-<p align="center">—————</p>
-
-<p align="center">
-  :tada: Hello there, you are the visitor :tada: <br><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjrzmnt.github.io&amp;count_bg=%235FAA09&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=false" alt="visit counter">
-</p>
