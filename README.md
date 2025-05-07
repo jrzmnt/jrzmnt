@@ -2,6 +2,8 @@
   <b>Juarez Monteiro</b> <br />
 </p>
 
+![3D Contributions](./profile-3d-contrib/github.svg)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&theme=synthwave&show_icons=true" alt="Juarez Monteiro's GitHub stats" />
 </p>
