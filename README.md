@@ -1,17 +1,33 @@
+<!-- Animated Introduction -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Juarez+Monteiro!;AI+Researcher+%7C+Data+Scientist" alt="Typing SVG" />
+</h1>
+
+---
+
+<!-- 3D Contributions -->
 <p align="center">
-  <b>Juarez Monteiro</b> <br />
+  <img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/profile-3d-contrib/profile-night-green.svg" width="700">
 </p>
 
-![3D Contributions](https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/profile-3d-contrib/profile-night-green.svg)
+---
 
+<!-- GitHub Summary Cards -->
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jrzmnt&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrzmnt&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&theme=synthwave&show_icons=true" alt="Juarez Monteiro's GitHub stats" />
-</p>
+---
 
-<p align="center">
-  <a href="https://jrzmnt.github.io"><img src="https://img.shields.io/badge/website-39424b?style=for-the-badge&logo=About.me&logoColor=white" alt="My Website" /></a>
-  <a href="https://linkedin.com/in/juarez-monteiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn account" /></a>
-  <a href="https://scholar.google.com.br/citations?user=LVhKmIIAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285f4?style=for-the-badge&logo=Google%20Scholar&logoColor=white" alt="My Google Scholar profile" /></a>
-  <a href="https://orcid.org/0000-0002-8831-5343"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=ORCID&logoColor=white" alt="My ORCID profile" /></a>
-</p>
+<!-- Skill Icons -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,vim,javascript,typescript,css,html,react,sass,nodejs,docker,figma" />
+  </a>
+</div>
+
+---
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jrzmnt&row=1&column=6&theme=dracula&margin-w=15&margin-h=15" />
+</div>
