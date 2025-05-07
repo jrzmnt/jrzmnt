@@ -7,7 +7,7 @@
 
 <!-- 3D Contributions -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/profile-3d-contrib/profile-night-green.svg" width="700">
+  <img src="https://raw.githubusercontent.com/jrzmnt/jrzmnt/master/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="700" />
 </p>
 
 ---
