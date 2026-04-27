@@ -11,13 +11,9 @@
 
 - 🔭 I'm currently working on **RL + Language Models for decision making under uncertainty**
 
-- 🌱 I'm currently learning **Alignment techniques (DPO, preference optimization, evaluators)**
-
 - 👯 I'm looking to collaborate on **Research projects involving RL and LLMs**
 
 - 🤝 I'm looking for help with **Academic collaboration and research discussions**
-
-- 💬 Ask me about **Reinforcement Learning, LLM evaluation & uncertainty, Agents and tool-using models, Experiment design and reproducibility**
 
 - 📫 How to reach me **Open an issue in any repo or reach out via GitHub discussions**
 
