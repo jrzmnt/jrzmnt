@@ -59,7 +59,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrzmnt&theme=chartreuse-dark&hide_border=true" height="150"/>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrzmnt&layout=compact&theme=tokyonight&hide_border=true" />
+  </div>
 </p>
 
