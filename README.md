@@ -33,35 +33,21 @@
 - Reinforcement Learning (RL)
 - Large Language Models (LLMs)
 - Uncertainty Estimation
-- Decision Making Systems
+- Decision-Making Systems
 - AI Alignment
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,opencv,linux,git&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/huggingface" width="40"/>
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40"/>
-  <img src="https://cdn.simpleicons.org/ollama" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrzmnt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrzmnt&layout=compact&theme=tokyonight&hide_border=true" />
-  </div>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrzmnt&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrzmnt&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jrzmnt&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrzmnt&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jrzmnt&theme=tokyonight&utcOffset=-3" width="24%" />
+</div>
 
