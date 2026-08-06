@@ -18,7 +18,6 @@
 ---
 
 ## 🚀 About Me
-
 - 🔬 Working on **RL + Language Models for decision-making under uncertainty**
 - 🤝 Open to **research collaborations (RL, LLMs, agents)**
 - 🧠 Interested in **alignment, uncertainty, and intelligent systems**
@@ -29,25 +28,8 @@
 ---
 
 ## 🧠 Research Interests
-
 - Reinforcement Learning (RL)
 - Large Language Models (LLMs)
 - Uncertainty Estimation
 - Decision-Making Systems
 - AI Alignment
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrzmnt&theme=tokyonight" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrzmnt&theme=tokyonight" width="24%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jrzmnt&theme=tokyonight" width="24%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrzmnt&theme=tokyonight" width="24%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jrzmnt&theme=tokyonight&utcOffset=-3" width="24%" />
-</div>
-
